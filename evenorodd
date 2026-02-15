@@ -1,0 +1,6 @@
+e = int(input("give a random number please"))
+
+if e%2==0:
+    print(e,"is a even number")
+else:
+    print(e,"is a odd number")
